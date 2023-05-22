@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(90deg,#267623e3,rgb(187, 240, 182));
+}
+
+.nome {
+    width: 100%;
+    background-color:#267623;
+}
+
+
+.nome ul li a{
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    color:rgb(222, 216, 216) ;
+    text-decoration: none;
+    
+}
+.nome img{
+    left: -500%;
+    transform: translate(400%);
+  
+}
+.conteudo{
+    
+    border: 1px solid orange;
+    border-radius: 5px;
+   padding: 10px;
+}
